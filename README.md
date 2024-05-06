@@ -1,12 +1,13 @@
 <h1 align= "center">
-  Linketree
+  Linktree
 </h1>
 
-![Linktree](.github/jos3s_linktree.png)
+![Linktree](.github/cap.png)
 
-Meu linktree pessoal, um site que tem objetivo ter todos os meus links sociais com apenas um link.
+ Um linktree pessoal,
+ um site que tem objetivo ter links sociais playlists e algumas ferramentas em um link.
 
-## Construido com
+## usando
 
 - HTML
 - CSS
@@ -16,5 +17,5 @@ Meu linktree pessoal, um site que tem objetivo ter todos os meus links sociais c
 ---
 
 <p align= "center">
-  Desenvolvido por <a href="https://github.com/jos3s">José Ulisses</a>
+   (c) <a href="https://github.com/andrebalen">Andre Balen</a>
 </p>
