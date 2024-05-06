@@ -2,7 +2,7 @@
   My diy Linktree
 </h1>
 
-![Linktree](.github/cap_a.png)
+![Linktree](.github/cap_b.png)
 
  Um linktree pessoal,
  um site que tem objetivo ter links sociais playlists e algumas ferramentas em um link.
